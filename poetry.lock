@@ -1,0 +1,25 @@
+DECLARE Number1, Number2, Answer : INTEGER
+Num1 = int()
+Num2 = int()
+Answer = int()
+def Test():
+  Number3 = int()
+  Answer = int ()
+  Num1=10
+  Num2=20
+  Num3=30
+  Answer=Num1+Num2
+print "Num1 is now ", Num1
+print "Num2 is now ", Num2
+print "Answer is now ", Answer
+
+Number1 ← 50
+Number2 ← 100
+Answer ← Number1 + Number2
+OUTPUT "Number1 is ", Number1
+OUTPUT "Number2 is ", Number2
+OUTPUT "Answer is ", Answer
+CALL Test
+OUTPUT "Number1 is still ", Number1
+OUTPUT "Number2 is still ", Number2
+OUTPUT "Answer is still ", Answe
